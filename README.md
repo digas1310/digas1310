@@ -25,4 +25,4 @@ Olá, Sou o Diogo Moreira
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=digas1310&icon=0&color=12)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=digas1310&style=flat-square)
